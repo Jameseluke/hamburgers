@@ -1,0 +1,17 @@
+9fans.net/go v0.0.0-20150709035532-65b8cf069318 h1:4UUc7iNL+A0hANTm+yo77gEMPecjhWYTepbDJUVY6Sg=
+9fans.net/go v0.0.0-20150709035532-65b8cf069318/go.mod h1:diCsxrliIURU9xsYtjCp5AbpQKqdhKmf0ujWDUSkfoY=
+github.com/gorilla/mux v1.6.2 h1:Pgr17XVTNXAk3q/r4CpKzC5xBM/qW1uVLV+IhRZpIIk=
+github.com/gorilla/mux v1.6.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/jameseluke/hamburgers v0.0.0-20180922035136-2a50ce61ca01 h1:kblMPZPsRm52wbskStpO7iXbV/9Iy4kc1TJI5N6s8/s=
+github.com/karrick/godirwalk v1.7.3 h1:UP4CfXf1LfNwXrX6vqWf1DOhuiFRn2hXsqtRAQlQOUQ=
+github.com/karrick/godirwalk v1.7.3/go.mod h1:2c9FRhkDxdIbgkOnCEvnSWs71Bhugbl46shStcFDJ34=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/rogpeppe/godef v1.0.0 h1:+3JM5juQRFS/Vifg5lMHkAtRELpcGicuZXdBmf7NIhE=
+github.com/rogpeppe/godef v1.0.0/go.mod h1:FWOCnfqToTbJkUGS32JdUoCuBBjtBQ3ZawrP7InscsM=
+github.com/sqs/goreturns v0.0.0-20180302073349-83e02874ec12 h1:/iJCbsc+t41LGK/YJblzm1o3HwM162j66hkq2L57nis=
+github.com/sqs/goreturns v0.0.0-20180302073349-83e02874ec12/go.mod h1:CKI4AZ4XmGV240rTHfO0hfE83S6/a3/Q1siZJ/vXf7A=
+github.com/uudashr/gopkgs v1.3.2 h1:ACme7LZyeSNIRIl9HtAA0RsT0eePUsrkHDVb2+aswhg=
+github.com/uudashr/gopkgs v1.3.2/go.mod h1:MtCdKVJkxW7hNKWXPNWfpaeEp8+Ml3Q8myb4yWhn2Hg=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e h1:FDhOuMEY4JVRztM/gsbk+IKUQ8kj74bxZrgw87eMMVc=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
